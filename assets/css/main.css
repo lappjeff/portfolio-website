@@ -2269,6 +2269,12 @@ input, select, textarea {
 		padding-bottom: 0;
 	}
 
+		.email-info {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			padding-top: 0.4em;
+		}
 		#contact .box {
 			-moz-transition: -moz-transform 1s ease;
 			-webkit-transition: -webkit-transform 1s ease;
